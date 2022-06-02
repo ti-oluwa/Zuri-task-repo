@@ -2,7 +2,7 @@ import random
 
 msg1 = 'CONGRATS YOU WIN!'
 
-msg2 = 'YOU LOSE! TRY AGAIN'
+msg2 = 'CPU WON, YOU LOST! TRY AGAIN'
 moves = {
     'R': "Rock",
     'P': "Paper",
