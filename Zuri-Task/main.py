@@ -46,6 +46,9 @@ def game():
             if user_choice == items:
                 is_valid = True
 
+            else:
+                is_valid = False
+
     if is_valid is True:
         decision(user_choice.upper(), computer_choice)
 
